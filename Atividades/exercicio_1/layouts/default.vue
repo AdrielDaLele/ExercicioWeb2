@@ -3,7 +3,7 @@
 
 <template>
 
-    <header>aaaaa</header>
+    <header></header>
     <slot/>
 </template>
 
