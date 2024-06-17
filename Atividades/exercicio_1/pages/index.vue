@@ -35,7 +35,7 @@
   
     .default-container {
       width: 30vw;
-      height: 70vh;
+      height: 90vh;
       background-size: cover;
       background-position: center;
       background-repeat: no-repeat;

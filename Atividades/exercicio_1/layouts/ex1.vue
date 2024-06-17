@@ -2,11 +2,18 @@
 </script>
 
 <template>
-    <div>
-        <h1 class="h1-title">SelectLabel do exercicio 1</h1>
-    </div>
-    <slot/>
-    <SelectLabel/>
+    <Card>
+        <template #title><h1 class="h1-title">SelectLabel do exercicio 1</h1></template>
+        <template #content>
+            <slot/>
+                
+        <SelectLabel/>
+
+        </template>
+    </Card>
+   
+
+    
     
 </template>
 
