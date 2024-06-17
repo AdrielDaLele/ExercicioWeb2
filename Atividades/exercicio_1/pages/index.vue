@@ -6,7 +6,7 @@
     <main class="default-main flex align-items-center justify-content-center">
       <section class="default-container flex flex-column align-items-center justify-content-center">
         <div class="row-default">
-            <h1  id="default-title">Lista de Exercicios</h1>
+            <h1  id="default-title">Exercicios 1 e 2</h1>
         </div>
         <div class="row-default">
           <Button class="button">
