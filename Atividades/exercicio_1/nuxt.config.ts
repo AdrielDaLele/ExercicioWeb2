@@ -6,17 +6,16 @@ export default defineNuxtConfig({
   },
   modules: [
     'nuxt-primevue',
-    '@sidebase/nuxt-auth',
-    '@pinia/nuxt'
   ],
   primevue: {
     components: {
-      include: ['Button']
+      include: ['Button','InputSwitch']
     }
   },
   css: [
     'primeicons/primeicons.css',
     'primevue/resources/themes/aura-light-green/theme.css',
     'primeflex/primeflex.css',
+    '~/assets/global.scss',
   ],
 })

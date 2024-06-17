@@ -17,6 +17,7 @@
     "primeicons": "^7.0.0",
     "primevue": "^3.52.0",
     "sass": "^1.76.0",
+    "setuptools": "^0.0.1",
     "vue": "^3.4.19",
     "vue-router": "^4.3.0"
   },
